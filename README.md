@@ -128,19 +128,19 @@
      <td width='50%' colspan=2>
       <h2 align='center'>Game Harbor</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/game-harbor/'>
+        <a href='https://oduncica.github.io/game-harbor/'>
           <img src='img/game-harbor.png' alt='Shop'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/game-harbor'>
+          <a href='https://github.com/oduncica/game-harbor'>
             <img src="icons/repo-web.svg"/>
           </a>
-          <a href='https://github.com/alex-dishen/game-harbor-back'>
+          <a href='https://github.com/oduncica/game-harbor-back'>
             <img src="icons/repo-back.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/game-harbor/'>
+          <a href='https://oduncica.github.io/game-harbor/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -150,93 +150,18 @@
   </tr>
   <tr>
     <td width='50%'>
-      <h2 align='center'>Chronous Landing</h2>
-      <div align='center'>  
-        <a href='https://chronous.midstem.net'>
-          <img src='img/chronous-landing.png' alt='Chronous'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://chronous.midstem.net'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Next.js, Styled-Components</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align='center'>Chronous</h2>
-      <div align='center'>  
-        <a href='https://chronous.midstem.net/default-chronous/'>
-          <img src='img/chronous.png' alt='Chronous'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/midstem/chronous'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://chronous.midstem.net/default-chronous/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, TypeScript</strong></p>
-      </div>
-    </td>
-  </tr>
-    <td width='50%'>
-      <h2 align='center'>Swipi Landing</h2>
-      <div align='center'>  
-        <a href='https://swipi.midstem.net'>
-          <img src='img/swipi-landing.png' alt='Swipi landing project'/>
-        </a>
-        <br>
-        <br>
-        <a href='https://swipi.midstem.net'>
-          <img src='icons/live.svg'/>
-        </a>
-        <p><strong>React, TypeScript, Next.js, Chakra</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align='center'>Portfolio</h2>
-      <div align='center'>  
-        <a href='https://alex-dishen.web.app'>
-          <img src='img/portfolio.png' alt='Portfolio'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/alex-dishen/portfolio'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://alex-dishen.web.app'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, Next.js, TypeScript, Styled-Components</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-
-
-  </tr>
-  <tr>
-    <td width='50%'>
       <h2 align='center'>To-Do</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/todo-app/'>
+        <a href='https://oduncica.github.io/todo-app/'>
           <img src='img/todo.png' alt='To-Do project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/todo-app'>
+          <a href='https://github.com/oduncica/todo-app'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/todo-app/'>
+          <a href='https://oduncica.github.io/todo-app/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -246,16 +171,16 @@
     <td width='50%'>
       <h2 align='center'>Memory Card</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/memory-card/'>
+        <a href='https://oduncica.github.io/memory-card/'>
           <img src='img/memory-card.png' alt='Memory Card Project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/memory-card'>
+          <a href='https://github.com/oduncica/memory-card'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/memory-card/'>
+          <a href='https://oduncica.github.io/memory-card/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -267,16 +192,16 @@
     <td width='50%'>
     <h2 align='center'>CV Maker</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/cv-maker/'>
+        <a href='https://oduncica.github.io/cv-maker/'>
           <img src='img/cv.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/cv-maker'>
+          <a href='https://github.com/oduncica/cv-maker'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/cv-maker/'>
+          <a href='https://oduncica.github.io/cv-maker/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -285,16 +210,16 @@
     <td width='50%'>
       <h2 align='center'>Tic Tac Toe</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/tic-tac-toe/'>
+        <a href='https://oduncica.github.io/tic-tac-toe/'>
           <img src='img/tic-tac-toe.png' alt='Tic Tac Toe project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/tic-tac-toe'>
+          <a href='https://github.com/oduncica/tic-tac-toe'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/tic-tac-toe/'>
+          <a href='https://oduncica.github.io/tic-tac-toe/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -306,16 +231,16 @@
     <td width='50%'>
       <h2 align='center'>Library</h2>
       <div align='center'>  
-        <a href='https://alex-dishen.github.io/library/'>
+        <a href='https://oduncica.github.io/library/'>
           <img src='img/library.png' alt='library'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/library'>
+          <a href='https://github.com/oduncica/library'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://alex-dishen.github.io/library/'>
+          <a href='https://oduncica.github.io/library/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -325,16 +250,16 @@
     <td width='50%'>
       <h2 align="center">Admin Dashboard</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/admin-dashboard/'>
+        <a href='https://oduncica.github.io/admin-dashboard/'>
           <img src="img/admin_dashboard.png" alt="dashboard"/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/alex-dishen/admin-dashboard'>
+          <a href='https://github.com/oduncica/admin-dashboard'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/admin-dashboard/">
+          <a href="https://oduncica.github.io/admin-dashboard/">
             <img src="icons/live.svg"/>
           </a>
         </p>
@@ -342,41 +267,21 @@
       </div>
     </td>
   </tr>
-  <tr>
-    <td width='50%'>
-      <h2 align="center">Calculator</h2>
-      <div align="center">  
-        <a href='https://alex-dishen.github.io/calculator/'>
-          <img src="img/Calculator.png" alt="Calculator"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/alex-dishen/calculator">
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href="https://alex-dishen.github.io/calculator/">
-            <img src="icons/live.svg"/>
-          </a>
-        </p>
-        <p><strong>HTML, CSS, JavaScript</strong></p>
-      </div>
-    </td>
-  </tr>
+
   <tr>
     <td width='50%'>
       <h2 align="center">Etch-a-Sketch</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/etch-a-sketch/'>
+        <a href='https://oduncica.github.io/etch-a-sketch/'>
           <img src="img/etch-a-sketch.png" alt="Etch-A-Sketch"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/etch-a-sketch">
+          <a href="https://github.com/oduncica/etch-a-sketch">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/etch-a-sketch/">
+          <a href="https://oduncica.github.io/etch-a-sketch/">
             <img src="icons/live.svg"/>
           </a>
         </p>
@@ -386,41 +291,20 @@
     <td width='50%'>
       <h2 align="center">Rock Paper Scissors</h2>
       <div align="center">  
-        <a href='https://alex-dishen.github.io/rock-paper-scissors/'>
+        <a href='https://oduncica.github.io/rock-paper-scissors/'>
           <img src="img/rock-paper-scissors.png" alt="Rock Paper Scissors"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/alex-dishen/rock-paper-scissors">
+          <a href="https://github.com/oduncica/rock-paper-scissors">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://alex-dishen.github.io/rock-paper-scissors/">
+          <a href="https://oduncica.github.io/rock-paper-scissors/">
             <img src="icons/live.svg"/>
           </a>
         </p>
         <p><strong>HTML, CSS, JavaScript</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width='50%'>
-      <h2 align="center">Landing page</h2>
-      <div align="center">  
-        <a href='https://alex-dishen.github.io/landing-page/'>
-          <img src="img/landing-page.png" alt="Landing Page"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/alex-dishen/landing-page">
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href="https://alex-dishen.github.io/landing-page/">
-            <img src="icons/live.svg"/>
-          </a>
-        </p>
-        <p><strong>HTML, CSS</strong></p>
       </div>
     </td>
   </tr>
