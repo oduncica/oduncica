@@ -43,33 +43,24 @@
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-      <br/>TypeScript
+      <br/>Tailwind Css
+ 
+  
+  </tr>
+
+  <tr>
     </td>
-    <td align="center" height="70" width="70">
+      <td align="center" height="70" width="70">
+      <img src="icons/next.svg" alt="React" width="40" height="40"/>
+      <br/>Vue.js
+    </td>
+   <td align="center" height="70" width="70">
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
-    </td>
-  </tr>
-  <tr>
-    <td align="center" height="70" width="70">
-      <img src="icons/next.svg" alt="React" width="40" height="40"/>
-      <br/>Next.js
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React Native
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/redux.svg" alt="Redux" width="40" height="40"/>
-      <br/>Redux
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/styled-components.svg" alt="Styled Components" height="40"/>
-      <br/>Styled Components
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/sass.svg" alt="SASS" width="40" height="40"/>
-      <br/>SASS
     </td>
   </tr>
 </table>
@@ -80,15 +71,15 @@
   <tr>
     <td align="center" height="70" width="70">
       <img src="icons/nest.svg" alt="Nest.js" width="40" height="40"/>
-      <br/>Nest.js
+      <br/>Php
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/prisma.svg" alt="Prisma" width="40" height="40"/>
-      <br/>Prisma
+      <br/>SQL
     </td>
     <td align="center" height="70" width="70">
       <img src="icons/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
-      <br/>PostgreSQL
+      <br/>Node js
     </td>
   </tr>
 </table>
@@ -101,17 +92,15 @@
       <img src="icons/git.svg" alt="Git" width="40" height="40"/>
       <br/>Git
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
-      <br/>Vite
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/aws.svg" alt="GitLab" width="40" height="40"/>
-      <br/>AWS
-    </td>
-    <td align="center" height="70" width="70">
+  
+  <td align="center" height="70" width="70">
       <img src="icons/figma.svg" alt="Figma" width="40" height="40"/>
       <br/>Figma
+
+  </td>
+      <td align="center" height="70" width="70">
+      <img src="icons/vite.svg" alt="Vite" width="40" height="40"/>
+      <br/>Vite
     </td>
   </tr>
 </table>
