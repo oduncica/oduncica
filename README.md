@@ -124,31 +124,6 @@
 
 <table>
   <tr>
-    <!-- <td width='50%'></td> -->
-     <td width='50%' colspan=2>
-      <h2 align='center'>Game Harbor</h2>
-      <div align='center'>  
-        <a href='https://oduncica.github.io/game-harbor/'>
-          <img src='img/game-harbor.png' alt='Shop'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/oduncica/game-harbor'>
-            <img src="icons/repo-web.svg"/>
-          </a>
-          <a href='https://github.com/oduncica/game-harbor-back'>
-            <img src="icons/repo-back.svg"/>
-          </a>
-          <a href='https://oduncica.github.io/game-harbor/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>React, TypeScript, Redux, NestJs, Prisma, PostgreSQL</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr>
     <td width='50%'>
       <h2 align='center'>To-Do</h2>
       <div align='center'>  
