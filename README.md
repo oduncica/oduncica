@@ -42,15 +42,20 @@
       <br/>JavaScript
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
-      <br/>Tailwind Css
- 
+      <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+      <br/>Typescript
+    </td>
+  
+  
   
   </tr>
 
   <tr>
+  <td align="center" height="70" width="70">
+      <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+      <br/>Tailwind Css
     </td>
-      <td align="center" height="70" width="70">
+   <td align="center" height="70" width="70">
       <img src="icons/next.svg" alt="React" width="40" height="40"/>
       <br/>Vue.js
     </td>
