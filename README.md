@@ -249,7 +249,7 @@
       <h2 align="center">Rock Paper Scissors</h2>
       <div align="center">  
         <a href='https://oduncica.github.io/rock-paper-scissors/'>
-          <img src="img/rock-paper-scissors.png" alt="Rock Paper Scissors"/>
+          <img src="img/booki.png" alt="Rock Paper Scissors"/>
         </a>
         <br>
         <br>
@@ -257,11 +257,11 @@
           <a href="https://github.com/oduncica/rock-paper-scissors">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://oduncica.github.io/rock-paper-scissors/">
+          <a href="https://oduncica.github.io/booki-website/">
             <img src="icons/live.svg"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong></p>
+        <p><strong>HTML, CSS</strong></p>
       </div>
     </td>
   </tr>
