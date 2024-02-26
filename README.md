@@ -4,10 +4,6 @@
 <p align="center">
   I'm a 23 years old Software Engineer based in Paris.<br>
   I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
-  The thing that excites me, and gets me pumped up <br>
-  is the process of tearing an idea down into its smallest components, <br> 
-  learning, and figuring out how to put those pieces together<br>
-  while creating something really awesome.
  <br>
  <br>
   📫 How to reach me:
@@ -41,11 +37,7 @@
       <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
-      <br/>Typescript
-    </td>
-  
+ 
   
   
   </tr>
@@ -62,10 +54,6 @@
    <td align="center" height="70" width="70">
       <img src="icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="icons/react.svg" alt="React" width="40" height="40"/>
-      <br/>React Native
     </td>
   </tr>
 </table>
@@ -239,22 +227,22 @@
 
   <tr>
     <td width='50%'>
-      <h2 align="center">Etch-a-Sketch</h2>
+      <h2 align="center">Booki Website</h2>
       <div align="center">  
-        <a href='https://oduncica.github.io/etch-a-sketch/'>
+        <a href='https://oduncica.github.io/Booki-website/'>
           <img src="img/etch-a-sketch.png" alt="Etch-A-Sketch"/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/oduncica/etch-a-sketch">
+          <a href="https://github.com/oduncica/booki-website">
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://oduncica.github.io/etch-a-sketch/">
+          <a href="https://oduncica.github.io/Booki-website/>
             <img src="icons/live.svg"/>
           </a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong></p>
+        <p><strong>HTML, CSS</strong></p>
       </div>
     </td>
     <td width='50%'>
