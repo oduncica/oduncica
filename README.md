@@ -2,7 +2,7 @@
   title="Profile">I'm Charlene</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 23 years old Software Engineer based in Paris.<br>
+  I'm a 23 years old Front-end Developer based in Paris.<br>
   I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
  <br>
  <br>
