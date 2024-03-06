@@ -2,8 +2,10 @@
   title="Profile">I'm Charlene</a>👋</h2>
 <br>
 <p align="center">
-  I'm a 23 years old Front-end Developer based in Paris.<br>
-  I enjoy being given challenging, visually-pleasing designs and making them a reality. <br>
+  I'm a 23-year-old Front-end Developer in Paris, adept at creating captivating web experiences.  <br
+Proficient in HTML, CSS, and JavaScript, I ensure seamless cross-device functionality.  <br>
+Skilled in front-end frameworks, I thrive on solving code challenges. Passionate about innovation, I stay abreast of industry trends.  <br>
+Beyond coding, I explore design trends and contribute to open-source projects. Eager to make a difference through creativity and technical prowess.
  <br>
  <br>
   📫 How to reach me:
