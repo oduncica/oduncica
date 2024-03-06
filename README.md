@@ -160,7 +160,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
           <a href='https://github.com/oduncica/Booki-website'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href=' https://oduncica.github.io/Booki-website/'>
+          <a href='https://oduncica.github.io/Booki-website/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
