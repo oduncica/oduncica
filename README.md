@@ -196,10 +196,10 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
         <br>
         <br>
         <p>
-          <a href='https://github.com/oduncica/library'>
+          <a href='https://github.com/oduncica/cinema'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://oduncica.github.io/library/'>
+          <a href='https://oduncica.github.io/cinema/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
@@ -210,15 +210,15 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
       <h2 align="center">Photo Website</h2>
       <div align="center">  
         <a href='https://oduncica.github.io/admin-dashboard/'>
-          <img src="img/admin_dashboard.png" alt="dashboard"/>
+          <img src="img/photo.png" alt="dashboard"/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/oduncica/admin-dashboard'>
+          <a href='https://github.com/oduncica/Photo'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href="https://oduncica.github.io/admin-dashboard/">
+          <a href="https://oduncica.github.io/Photo/">
             <img src="icons/live.svg"/>
           </a>
         </p>
