@@ -169,8 +169,8 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
     <td width='50%'>
       <h2 align='center'>Rock Paper Scissor</h2>
       <div align='center'>  
-        <a href='https://oduncica.github.io/tic-tac-toe/'>
-          <img src='img/tic-tac-toe.png' alt='Tic Tac Toe project'/>
+        <a href='https://github.com/oduncica/Rock-paper-scissors'>
+          <img src='img/rock.png' alt='Tic Tac Toe project'/>
         </a>
         <br>
         <br>
@@ -178,7 +178,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
           <a href='https://github.com/oduncica/tic-tac-toe'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://oduncica.github.io/tic-tac-toe/'>
+          <a href='https://oduncica.github.io/Rock-paper-scissors/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
