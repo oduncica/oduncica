@@ -152,15 +152,15 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
     <h2 align='center'>Booki Website</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/cv-maker/'>
-          <img src='img/cv.png' alt='CV Creator project'/>
+          <img src='img/booki.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/oduncica/cv-maker'>
+          <a href='https://github.com/oduncica/Booki-website'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://oduncica.github.io/cv-maker/'>
+          <a href=' https://oduncica.github.io/Booki-website/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
