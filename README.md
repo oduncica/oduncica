@@ -191,7 +191,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
       <h2 align='center'>Cinema Website</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/library/'>
-          <img src='img/library.png' alt='library'/>
+          <img src='img/cinema.png' alt='library'/>
         </a>
         <br>
         <br>
