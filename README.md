@@ -226,45 +226,4 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
       </div>
     </td>
   </tr>
-
-  <tr>
-    <td width='50%'>
-      <h2 align="center">Booki Website</h2>
-      <div align="center">  
-        <a href='https://oduncica.github.io/Booki-website/'>
-          <img src="img/etch-a-sketch.png" alt="Etch-A-Sketch"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/oduncica/booki-website">
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href="https://oduncica.github.io/Booki-website/>
-            <img src="icons/live.svg"/>
-          </a>
-        </p>
-        <p><strong>HTML, CSS</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
-      <h2 align="center">Rock Paper Scissors</h2>
-      <div align="center">  
-        <a href='https://oduncica.github.io/rock-paper-scissors/'>
-          <img src="img/booki.png" alt="Rock Paper Scissors"/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href="https://github.com/oduncica/rock-paper-scissors">
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href="https://oduncica.github.io/booki-website/">
-            <img src="icons/live.svg"/>
-          </a>
-        </p>
-        <p><strong>HTML, CSS</strong></p>
-      </div>
-    </td>
-  </tr>
 </table>
