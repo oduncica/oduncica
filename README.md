@@ -152,7 +152,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
     <h2 align='center'>Booki Website</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/cv-maker/'>
-          <img src='img/booki.png' alt='CV Creator project'/>
+          <img src='img/booki-site.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
