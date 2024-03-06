@@ -128,7 +128,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
       </div>
     </td>
     <td width='50%'>
-      <h2 align='center'>Memory Card</h2>
+      <h2 align='center'>Wether</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/memory-card/'>
           <img src='img/memory-card.png' alt='Memory Card Project'/>
@@ -149,7 +149,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
   </tr>
   <tr>
     <td width='50%'>
-    <h2 align='center'>CV Maker</h2>
+    <h2 align='center'>Library App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/cv-maker/'>
           <img src='img/cv.png' alt='CV Creator project'/>
@@ -167,7 +167,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
         <p><strong>React, SCSS</strong></p>
       </div></td>
     <td width='50%'>
-      <h2 align='center'>Tic Tac Toe</h2>
+      <h2 align='center'>Rock Paper Scissor</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/tic-tac-toe/'>
           <img src='img/tic-tac-toe.png' alt='Tic Tac Toe project'/>
@@ -188,7 +188,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
   </tr>
   <tr>
     <td width='50%'>
-      <h2 align='center'>Library</h2>
+      <h2 align='center'>Booki Website</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/library/'>
           <img src='img/library.png' alt='library'/>
@@ -203,11 +203,11 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>HTML, CSS, JavaScript</strong></p>
+        <p><strong>HTML, CSS</strong></p>
       </div>
     </td>
     <td width='50%'>
-      <h2 align="center">Admin Dashboard</h2>
+      <h2 align="center">Photo Website</h2>
       <div align="center">  
         <a href='https://oduncica.github.io/admin-dashboard/'>
           <img src="img/admin_dashboard.png" alt="dashboard"/>
