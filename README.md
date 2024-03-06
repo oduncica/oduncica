@@ -109,7 +109,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
 <table>
   <tr>
     <td width='50%'>
-      <h2 align='center'>To-Do</h2>
+      <h2 align='center'>Weather App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/todo-app/'>
           <img src='img/todo.png' alt='To-Do project'/>
@@ -124,11 +124,11 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, Redux, Styled-Components</strong></p>
+        <p><strong>Html, Css, Javascript, Webpack</strong></p>
       </div>
     </td>
     <td width='50%'>
-      <h2 align='center'>Wether</h2>
+      <h2 align='center'>Library App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/memory-card/'>
           <img src='img/memory-card.png' alt='Memory Card Project'/>
@@ -143,13 +143,13 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, SCSS</strong></p>
+        <p><strong>Html, Css, Javascript</strong></p>
       </div>
     </td>
   </tr>
   <tr>
     <td width='50%'>
-    <h2 align='center'>Library App</h2>
+    <h2 align='center'>Booki Website</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/cv-maker/'>
           <img src='img/cv.png' alt='CV Creator project'/>
@@ -164,7 +164,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>React, SCSS</strong></p>
+        <p><strong>Html, CSS</strong></p>
       </div></td>
     <td width='50%'>
       <h2 align='center'>Rock Paper Scissor</h2>
@@ -188,7 +188,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
   </tr>
   <tr>
     <td width='50%'>
-      <h2 align='center'>Booki Website</h2>
+      <h2 align='center'>Cinema Website</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/library/'>
           <img src='img/library.png' alt='library'/>
