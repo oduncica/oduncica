@@ -108,26 +108,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
 
 <table>
   <tr>
-    <td width='50%'>
-      <h2 align='center'>Weather App</h2>
-      <div align='center'>  
-        <a href='https://oduncica.github.io/todo-app/'>
-          <img src='img/todo.png' alt='To-Do project'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://github.com/oduncica/todo-app'>
-            <img src="icons/repo.svg"/>
-          </a>
-          <a href='https://oduncica.github.io/todo-app/'>
-            <img src='icons/live.svg'/>
-          </a>
-        </p>
-        <p><strong>Html, Css, Javascript, Webpack</strong></p>
-      </div>
-    </td>
-    <td width='50%'>
+    <td width='100%'>
       <h2 align='center'>Library App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/memory-card/'>
