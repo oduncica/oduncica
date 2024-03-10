@@ -46,11 +46,11 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
 
   <tr>
   <td align="center" height="70" width="70">
-      <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+      <img src="icons/tailwind.svg" alt="TypeScript" width="40" height="40"/>
       <br/>Tailwind Css
     </td>
    <td align="center" height="70" width="70">
-      <img src="icons/next.svg" alt="React" width="40" height="40"/>
+      <img src="icons/vue.svg" alt="Vue" width="40" height="40"/>
       <br/>Vue.js
     </td>
    <td align="center" height="70" width="70">
@@ -69,11 +69,11 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
       <br/>Php
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/prisma.svg" alt="Prisma" width="40" height="40"/>
+      <img src="icons/sql.png" alt="sql" width="40" height="40"/>
       <br/>SQL
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
+      <img src="icons/node.svg" alt="node" width="40" height="40"/>
       <br/>Node js
     </td>
   </tr>
