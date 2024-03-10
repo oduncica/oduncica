@@ -65,7 +65,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/nest.svg" alt="Nest.js" width="40" height="40"/>
+      <img src="icons/php.png" alt="Nest.js" width="40" height="40"/>
       <br/>Php
     </td>
     <td align="center" height="70" width="70">
@@ -108,7 +108,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
 
 <table>
   <tr>
-    <td width='100%'>
+    <td width='50%'>
       <h2 align='center'>Library App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/memory-card/'>
