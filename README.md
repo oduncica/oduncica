@@ -109,10 +109,10 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
 <table>
   <tr>
     <td colspan="2">
-      <h2 align='center'>Library App</h2>
+      <h2 align='center'>Booki Website</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/memory-card/'>
-          <img src='img/memory-card.png' alt='Memory Card Project'/>
+          <img src='img/booki-site.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
@@ -130,7 +130,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
   </tr>
   <tr>
     <td width='50%'>
-    <h2 align='center'>Booki Website</h2>
+    <h2 align='center'>Library App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/cv-maker/'>
           <img src='img/booki-site.png' alt='CV Creator project'/>
