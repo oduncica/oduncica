@@ -108,7 +108,7 @@ Beyond coding, I explore design trends and contribute to open-source projects. E
 
 <table>
   <tr>
-    <td width='50%'>
+    <td colspan="2">
       <h2 align='center'>Library App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/memory-card/'>
