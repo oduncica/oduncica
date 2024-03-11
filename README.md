@@ -132,7 +132,7 @@ In addition to my development work, I am also interested in digital project mana
     <h2 align='center'>Library App</h2>
       <div align='center'>  
         <a href='https://oduncica.github.io/cv-maker/'>
-          <img src='img/booki-site.png' alt='CV Creator project'/>
+          <img src='img/library.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
