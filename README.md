@@ -110,13 +110,13 @@ In addition to my development work, I am also interested in digital project mana
     <td colspan="2">
       <h2 align='center'>Booki Website</h2>
       <div align='center'>  
-        <a href='https://oduncica.github.io/memory-card/'>
+        <a href='https://oduncica.github.io/memory-card'>
           <img src='img/booki-site.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://github.com/oduncica/memory-card'>
+          <a href='https://github.com/oduncica/Booki-website'>
             <img src="icons/repo.svg"/>
           </a>
           <a href='https://oduncica.github.io/memory-card/'>
