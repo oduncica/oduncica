@@ -110,7 +110,7 @@ In addition to my development work, I am also interested in digital project mana
     <td colspan="2">
       <h2 align='center'>Booki Website</h2>
       <div align='center'>  
-        <a href='https://oduncica.github.io/memory-card'>
+        <a href='https://oduncica.github.io/Booki-website/'>
           <img src='img/booki-site.png' alt='CV Creator project'/>
         </a>
         <br>
@@ -123,7 +123,7 @@ In addition to my development work, I am also interested in digital project mana
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>Html, Css, Javascript</strong></p>
+        <p><strong>Html, Css</strong></p>
       </div>
     </td>
   </tr>
@@ -131,8 +131,8 @@ In addition to my development work, I am also interested in digital project mana
     <td width='50%'>
     <h2 align='center'>Library App</h2>
       <div align='center'>  
-        <a href='https://oduncica.github.io/cv-maker/'>
-          <img src='img/library.png' alt='CV Creator project'/>
+        <a href='https://oduncica.github.io/Library-app/'>
+          <img src='img/Library-app.png' alt='CV Creator project'/>
         </a>
         <br>
         <br>
@@ -155,7 +155,7 @@ In addition to my development work, I am also interested in digital project mana
         <br>
         <br>
         <p>
-          <a href='https://github.com/oduncica/tic-tac-to'>
+          <a href='https://oduncica.github.io/Rock-paper-scissors/'>
             <img src="icons/repo.svg"/>
           </a>
           <a href='https://oduncica.github.io/Rock-paper-scissors/'>
