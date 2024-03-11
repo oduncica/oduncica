@@ -140,7 +140,7 @@ In addition to my development work, I am also interested in digital project mana
           <a href='https://github.com/oduncica/Library-app'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://oduncica.github.io/Booki-website/'>
+          <a href='https://oduncica.github.io/Library-app/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
