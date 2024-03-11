@@ -119,7 +119,7 @@ In addition to my development work, I am also interested in digital project mana
           <a href='https://github.com/oduncica/Booki-website'>
             <img src="icons/repo.svg"/>
           </a>
-          <a href='https://oduncica.github.io/memory-card/'>
+          <a href='https://oduncica.github.io/Booki-website/'>
             <img src='icons/live.svg'/>
           </a>
         </p>
