@@ -137,7 +137,7 @@ In addition to my development work, I am also interested in digital project mana
         <br>
         <br>
         <p>
-          <a href='https://github.com/oduncica/Booki-website'>
+          <a href='https://github.com/oduncica/Library-app'>
             <img src="icons/repo.svg"/>
           </a>
           <a href='https://oduncica.github.io/Booki-website/'>
@@ -155,7 +155,7 @@ In addition to my development work, I am also interested in digital project mana
         <br>
         <br>
         <p>
-          <a href='https://github.com/oduncica/tic-tac-toe'>
+          <a href='https://github.com/oduncica/tic-tac-to'>
             <img src="icons/repo.svg"/>
           </a>
           <a href='https://oduncica.github.io/Rock-paper-scissors/'>
