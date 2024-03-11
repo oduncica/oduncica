@@ -144,7 +144,7 @@ In addition to my development work, I am also interested in digital project mana
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>Html, CSS</strong></p>
+        <p><strong>Html, CSS, Javascript</strong></p>
       </div></td>
     <td width='50%'>
       <h2 align='center'>Rock Paper Scissor</h2>
