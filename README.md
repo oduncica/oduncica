@@ -123,7 +123,7 @@ In addition to my development work, I am also interested in digital project mana
             <img src='icons/live.svg'/>
           </a>
         </p>
-        <p><strong>Html, Css</strong></p>
+        <p><strong>Html, Css, JS</strong></p>
       </div>
     </td>
   </tr>
